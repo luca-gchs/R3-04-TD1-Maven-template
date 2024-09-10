@@ -130,3 +130,22 @@ image::success2.png["Ca run!", width=80%]
 
 Pour ce TP, il vous faudra simplement rendre le projet complet (`src`) ainsi que la dernière version du fichier `pom.xml` sur votre dépôt et la javadoc de votre code.
 
+
+== Rendu (partie rédigée par les étudiants)
+
+Bonjour monsieur, vous trouverez ici les liens pour les différentes parties du rendu.
+
+=== src
+pour le fichier src regarder https://github.com/luca-gchs/R3-04-TD1-Maven-template/tree/master/src/main/java[ici].
+
+=== pom.xml
+
+pour le fichier pom.xml regarder https://github.com/luca-gchs/R3-04-TD1-Maven-template/blob/master/pom.xml[ici].
+
+=== Javadoc
+
+pour la javadoc, regarder le dossier https://github.com/luca-gchs/R3-04-TD1-Maven-template/blob/master/javadoc[ici].
+
+=== gitLab
+
+URL vers le dépôt gitLab https://gitlab.com/r3.04-qualite/TD1[ici].
