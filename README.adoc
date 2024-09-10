@@ -145,3 +145,7 @@ pour le fichier pom.xml regarder https://github.com/luca-gchs/R3-04-TD1-Maven-te
 === Javadoc
 
 pour la javadoc, regarder le dossier https://github.com/luca-gchs/R3-04-TD1-Maven-template/blob/master/javadoc[ici].
+
+=== gitLab
+
+URL vers le dépôt gitLab https://gitlab.com/r3.04-qualite/TD1[ici].
